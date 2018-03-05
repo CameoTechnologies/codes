@@ -1,8 +1,8 @@
 # codes
 
 # Instructions for how the code for this project is organized.<br /> <br />
-The raw data can be downloaded from Kaggle StateFarm competition page. The data was extracted and organized as provided by Kaggle.<br />
-Note that we used Google Colaboratory Engine to build our models to take advantage of the free GPU provided.  So to use this code in it’s entirely as is, it must be used in Google Colab environment through Google Drive. <br />
+The raw data can be downloaded from Kaggle StateFarm competition page. The data was extracted and organized as provided by Kaggle.<br /> <br />
+Note that we used Google Colaboratory Engine to build our models to take advantage of the free GPU provided.  So to use this code in it’s entirely as is, it must be used in Google Colab environment through Google Drive. <br /> <br />
 However, one could still run the code in standalone computer, using Python or Ipython interpreter.  In such case, the code chunk that is used to connect to Google Colab should just be ignored or deleted.<br /><br />
 The process followed for this code was as follows:<br /><br />
 1.	The first file to use is create_train_val_sets_for_colab.py  <br />
